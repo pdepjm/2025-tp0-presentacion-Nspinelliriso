@@ -12,9 +12,8 @@
 
     ![GIFdelPingÜinito](https://github.com/user-attachments/assets/a73af5e9-48b5-46de-9ac7-b10c7fe5fa03)
 
- 
  - Personalmente tengo buenas expectativas acerca de esta materia. Me interesa muchísimo divagar y explorar cada nuevo mundo que cada paradigma nos irá desbloqueando🌎👨🏻‍💻.
 
- Y para no terminar esta presentación así nomás, dejo una frase que me gusto y queria compartir...
+ Y para no terminar esta presentación así nomás, dejo una frase que me gustó y queria compartir...
 
  > "En un mundo donde todo cambia rápido, lo único constante es que siempre habrá un bug que resolver."
